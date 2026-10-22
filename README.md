@@ -2,11 +2,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  uddissh@mechatronics:~$ whoami                                ║
+║  uddissh@mechatronics:~$ boot.sh                                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&random=false&width=600&height=50&lines=Uddissh+Verma;Class+12+ISC+%7C+Lucknow%2C+India;Robotics+%2B+Embedded+Systems;Full-Stack+%2B+AI%2FLLM;Black+Belt+%7C+Robotics+Club+Mentor" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=800&color=00FF9C&center=true&vCenter=true&width=650&height=160&lines=%5BOK%5D+Loading+kernel+modules...;%5BOK%5D+Mounting+%2Fdev%2Frobotics...;%5BOK%5D+Spinning+up+ESP-NOW+mesh...;%5BOK%5D+System+ready.;Uddissh+Verma;Class+12+ISC+%7C+Lucknow%2C+India;Robotics+%2B+Embedded+Systems;Full-Stack+%2B+AI%2FLLM;Black+Belt+%7C+Robotics+Club+Mentor" alt="boot-sequence" />
 
 ![visitors](https://visitcount.itsvg.in/api?id=Uddissh&icon=0&color=0)
 
@@ -24,9 +24,9 @@ uddissh@mechatronics:~$ cat about.txt
 
 <br>
 
-```bash
-uddissh@mechatronics:~$ ls -la hardware/
-```
+<details open>
+<summary><code>uddissh@mechatronics:~$ ls -la hardware/</code></summary>
+<br>
 
 <div align="center">
 
@@ -38,10 +38,11 @@ uddissh@mechatronics:~$ ls -la hardware/
 ![MQTT](https://img.shields.io/badge/-MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=00FF9C)
 
 </div>
+</details>
 
-```bash
-uddissh@mechatronics:~$ ls -la software/
-```
+<details open>
+<summary><code>uddissh@mechatronics:~$ ls -la software/</code></summary>
+<br>
 
 <div align="center">
 
@@ -58,12 +59,13 @@ uddissh@mechatronics:~$ ls -la software/
 ![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF9C)
 
 </div>
+</details>
 
 <br>
 
-```bash
-uddissh@mechatronics:~$ ls projects/ --sort=featured
-```
+<details open>
+<summary><code>uddissh@mechatronics:~$ ls projects/ --sort=featured</code></summary>
+<br>
 
 | repo | stack |
 |---|---|
@@ -75,11 +77,13 @@ uddissh@mechatronics:~$ ls projects/ --sort=featured
 | **UNO No Mercy** | Next.js · Supabase Realtime · Deno Edge Functions |
 | **ReconForge** | 4-phase bash pentest automation pipeline |
 
+</details>
+
 <br>
 
-```bash
-uddissh@mechatronics:~$ htop --home-lab
-```
+<details>
+<summary><code>uddissh@mechatronics:~$ htop --home-lab</code></summary>
+<br>
 
 <div align="center">
 
@@ -90,6 +94,7 @@ uddissh@mechatronics:~$ htop --home-lab
 Ollama · Home Assistant · ESPHome · Mosquitto · DuckDNS+Certbot HTTPS · SSH-only · VLAN segmented
 
 </div>
+</details>
 
 <br>
 
@@ -121,9 +126,9 @@ uddissh@mechatronics:~$ git log --graph --all
   <img alt="snake animation" src="https://raw.githubusercontent.com/Uddissh/Uddissh/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+<sub>(empty until the <code>snake</code> Action is run once — see Actions tab)</sub>
 
-> Snake animation needs the `platane/snk` GitHub Action in this repo (one-time setup, step below).
+</div>
 
 <br>
 
