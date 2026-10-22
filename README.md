@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=800&color=00FF9C&center=true&vCenter=true&width=650&height=160&lines=%5BOK%5D+Loading+kernel+modules...;%5BOK%5D+Mounting+%2Fdev%2Frobotics...;%5BOK%5D+Spinning+up+ESP-NOW+mesh...;%5BOK%5D+System+ready.;Uddissh+Verma;Class+12+ISC+%7C+Lucknow%2C+India;Robotics+%2B+Embedded+Systems;Full-Stack+%2B+AI%2FLLM;Black+Belt+%7C+Robotics+Club+Mentor" alt="boot-sequence" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=800&color=00FF9C&center=true&vCenter=true&width=650&height=160&lines=%5BOK%5D+Loading+kernel+modules...;%5BOK%5D+Mounting+%2Fdev%2Frobotics...;%5BOK%5D+Spinning+up+ESP-NOW+mesh...;%5BOK%5D+System+ready.;Uddissh+Verma;University+of+Wollongong+Malaysia+UOWMKDU;Robotics+%2B+Embedded+Systems;Full-Stack+%2B+AI%2FLLM;Black+Belt+%7C+Robotics+Club+Mentor" alt="boot-sequence" />
 
 ![visitors](https://visitcount.itsvg.in/api?id=Uddissh&icon=0&color=0)
 
