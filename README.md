@@ -15,6 +15,20 @@
 <br>
 
 ```bash
+uddissh@mechatronics:~$ help
+```
+
+<div align="center">
+
+[`about`](#about) · [`hardware`](#hardware) · [`software`](#software) · [`projects`](#projects) · [`home-lab`](#home-lab) · [`stats`](#stats) · [`contact`](#contact)
+
+</div>
+
+<br>
+
+<a id="about"></a>
+
+```bash
 uddissh@mechatronics:~$ cat about.txt
 ```
 
@@ -23,6 +37,8 @@ uddissh@mechatronics:~$ cat about.txt
 > Builds across the stack: ESP32 swarms, FPV drones, full RAG pipelines, self-hosted infra.
 
 <br>
+
+<a id="hardware"></a>
 
 <details open>
 <summary><code>uddissh@mechatronics:~$ ls -la hardware/</code></summary>
@@ -39,6 +55,8 @@ uddissh@mechatronics:~$ cat about.txt
 
 </div>
 </details>
+
+<a id="software"></a>
 
 <details open>
 <summary><code>uddissh@mechatronics:~$ ls -la software/</code></summary>
@@ -63,6 +81,8 @@ uddissh@mechatronics:~$ cat about.txt
 
 <br>
 
+<a id="projects"></a>
+
 <details open>
 <summary><code>uddissh@mechatronics:~$ ls projects/ --sort=featured</code></summary>
 <br>
@@ -79,7 +99,20 @@ uddissh@mechatronics:~$ cat about.txt
 
 </details>
 
+<details>
+<summary><code>uddissh@mechatronics:~$ sudo rm -rf /</code></summary>
 <br>
+
+```
+rm: it's a trap. nice try though.
+[sudo] permission denied — this terminal has trust issues.
+```
+
+</details>
+
+<br>
+
+<a id="home-lab"></a>
 
 <details>
 <summary><code>uddissh@mechatronics:~$ htop --home-lab</code></summary>
@@ -98,9 +131,21 @@ Ollama · Home Assistant · ESPHome · Mosquitto · DuckDNS+Certbot HTTPS · SSH
 
 <br>
 
+<a id="stats"></a>
+
 ```bash
 uddissh@mechatronics:~$ stats --fetch
 ```
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" alt="random dev quote, refreshes each load" />
+
+</div>
+
+<details open>
+<summary><code>expand stats dashboard</code></summary>
+<br>
 
 <div align="center">
 
@@ -112,6 +157,7 @@ uddissh@mechatronics:~$ stats --fetch
 <img src="https://github-profile-trophy.vercel.app/?username=Uddissh&theme=chartreuse-dark&no-frame=true&margin-w=4" width="90%" />
 
 </div>
+</details>
 
 <br>
 
@@ -131,6 +177,8 @@ uddissh@mechatronics:~$ git log --graph --all
 </div>
 
 <br>
+
+<a id="contact"></a>
 
 ```bash
 uddissh@mechatronics:~$ contact --list
