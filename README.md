@@ -1,27 +1,147 @@
-# 💫 About Me:
-Innovative and detail-oriented electronics and robotics enthusiast with hands-on experience in embedded systems, IoT, and automation projects. Skilled in ESP32, Arduino, PCB design, and Home Assistant integration, with a proven ability to design, develop, and implement hardware-software solutions. Strong problem-solving skills, technical curiosity, and a passion for building practical, real-world technology applications.
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║  uddissh@mechatronics:~$ whoami                                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uddish___verma) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@uddissh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uddissh.verma@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&random=false&width=600&height=50&lines=Uddissh+Verma;Class+12+ISC+%7C+Lucknow%2C+India;Robotics+%2B+Embedded+Systems;Full-Stack+%2B+AI%2FLLM;Black+Belt+%7C+Robotics+Club+Mentor" alt="typing-svg" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat-square&logo=zigbee&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Uddissh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Uddissh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uddissh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![visitors](https://visitcount.itsvg.in/api?id=Uddissh&icon=0&color=0)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Uddissh&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Uddissh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```bash
+uddissh@mechatronics:~$ cat about.txt
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=Uddissh&icon=0&color=0)](https://visitcount.itsvg.in)
+> Class 12 ISC student @ City Montessori School, Lucknow, India — applying to undergrad
+> Mechatronics/Robotics programs abroad. Mentors juniors in the school robotics club.
+> Builds across the stack: ESP32 swarms, FPV drones, full RAG pipelines, self-hosted infra.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+```bash
+uddissh@mechatronics:~$ ls -la hardware/
+```
+
+<div align="center">
+
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00FF9C)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FF9C)
+![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=00FF9C)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF9C)
+![HomeAssistant](https://img.shields.io/badge/-Home%20Assistant-000000?style=for-the-badge&logo=home-assistant&logoColor=00FF9C)
+![MQTT](https://img.shields.io/badge/-MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=00FF9C)
+
+</div>
+
+```bash
+uddissh@mechatronics:~$ ls -la software/
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF9C)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF9C)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF9C)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF9C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF9C)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00FF9C)
+![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF9C)
+
+</div>
+
+<br>
+
+```bash
+uddissh@mechatronics:~$ ls projects/ --sort=featured
+```
+
+| repo | stack |
+|---|---|
+| **SHARK Rover** | ESP-NOW mesh · OpenCV intrusion detection · Pi · custom PCB |
+| **FPV Racing Drone** | GT2205 · SpeedyBee F405 · Betaflight PID tuning |
+| **Connected Pet Ecosystem** | React · FastAPI · Mistral 7B moderation · Docker |
+| **Cortex** | Self-hosted RAG · Supabase pgvector · Ollama embeddings |
+| **FORGE SaaS** | AI project mgmt for robotics teams · Supabase |
+| **UNO No Mercy** | Next.js · Supabase Realtime · Deno Edge Functions |
+| **ReconForge** | 4-phase bash pentest automation pipeline |
+
+<br>
+
+```bash
+uddissh@mechatronics:~$ htop --home-lab
+```
+
+<div align="center">
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu%20Server%2024.04-000000?style=for-the-badge&logo=ubuntu&logoColor=00FF9C)
+![Portainer](https://img.shields.io/badge/-Portainer-000000?style=for-the-badge&logo=portainer&logoColor=00FF9C)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00FF9C)
+
+Ollama · Home Assistant · ESPHome · Mosquitto · DuckDNS+Certbot HTTPS · SSH-only · VLAN segmented
+
+</div>
+
+<br>
+
+```bash
+uddissh@mechatronics:~$ stats --fetch
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Uddissh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uddissh&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uddissh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" width="48%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Uddissh&theme=chartreuse-dark&no-frame=true&margin-w=4" width="90%" />
+
+</div>
+
+<br>
+
+```bash
+uddissh@mechatronics:~$ git log --graph --all
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uddissh/Uddissh/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Uddissh/Uddissh/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> Snake animation needs the `platane/snk` GitHub Action in this repo (one-time setup, step below).
+
+<br>
+
+```bash
+uddissh@mechatronics:~$ contact --list
+```
+
+<div align="center">
+
+[![Mail](https://img.shields.io/badge/-uddissh.verma@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:uddissh.verma@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Uddissh-000000?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Uddissh)
+
+</div>
+
+<div align="center">
+
+```
+uddissh@mechatronics:~$ _
+```
+
+</div>
