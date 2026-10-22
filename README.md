@@ -18,8 +18,8 @@
 uddissh@mechatronics:~$ cat about.txt
 ```
 
-> Class 12 ISC student @ City Montessori School, Lucknow, India — applying to undergrad
-> Mechatronics/Robotics programs abroad. Mentors juniors in the school robotics club.
+> University of Wollongong Malaysia - UOWMKDU
+> Mechatronics/Robotics programs abroad.
 > Builds across the stack: ESP32 swarms, FPV drones, full RAG pipelines, self-hosted infra.
 
 <br>
