@@ -154,7 +154,7 @@ uddissh@mechatronics:~$ stats --fetch
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uddissh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" width="48%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Uddissh&theme=chartreuse-dark&no-frame=true&margin-w=4" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uddissh&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=C9D1D9&area=true&hide_border=true" width="90%" />
 
 </div>
 </details>
